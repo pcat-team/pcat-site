@@ -1,0 +1,10 @@
+.bigTitle a{display: block;
+    height: 31px;
+    line-height: 31px;
+    overflow: hidden;
+    text-align: center;
+    margin-top: -6px;
+    font-size: 18px;
+    color: #f44;
+    font-family: Microsoft Yahei;
+}

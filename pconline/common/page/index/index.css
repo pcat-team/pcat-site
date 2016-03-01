@@ -1,0 +1,9 @@
+/**
+ * @require common:reset
+ */
+
+.wrapper{ width: 1000px; margin:0 auto; }
+
+.layA{  width: 300px;  margin-right: 20px;}
+.layB{ width: 360px; }
+.layC{ width: 300px; }
